@@ -32,6 +32,8 @@ The below instructions are for MAMP but you are welcome to use any other local o
 
 * Done using 'hukd.php' - gets data from HUKD in JSON format which is 'cleaned up' and returns it
 
+![Alt text](/Screenshots/index_page2.png)
+
 ### Comparing Prices
 
 ##### Amazon API
@@ -66,6 +68,7 @@ The below instructions are for MAMP but you are welcome to use any other local o
 * Displays NO-STATE if there is nothing retrieved by HUKD or if "listing.php" detail page went wrong
 * Allow user to populate listing page with :Fake: data
 
+![Alt text](/Screenshots/failed_retrieval.png)
 
 * "Listing.php" - Column that contains following
 
